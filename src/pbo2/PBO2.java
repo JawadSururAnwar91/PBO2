@@ -3,6 +3,9 @@ public class PBO2 {
     public static void main(String[] args) {
         
         myFrame m = new myFrame();
+        m.pesan = "Hallo...";
+        m.bilBulat = 3;
+        m.bilDesimal = 3.14;
         
     }
     
